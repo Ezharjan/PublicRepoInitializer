@@ -220,6 +220,8 @@ readme_content = r"""# Initial Public Repository
 ## Abstract
 This is the repository for Some Project Name doing Something.
 
+<br>
+
 ## 📜 BibTeX
 ```bibtex
 @software{project_name,
@@ -230,6 +232,7 @@ This is the repository for Some Project Name doing Something.
 }
 ```
 
+<br>
 <br>
 
 """
